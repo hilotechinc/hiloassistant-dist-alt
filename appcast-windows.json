@@ -1,0 +1,8 @@
+{
+  "version": "0.9.19",
+  "build": 98,
+  "url": "https://github.com/hilotechinc/hiloassistant-dist-alt/releases/download/win-v0.9.19.98/HiloAssistant-0.9.19.98.msix",
+  "sha256": "c637b4a82da3037c91cd26d58af807a503440fdbd9e44dc668ac11930ca6e7a3",
+  "size": 107820631,
+  "notes": "L'assistant se rouvre là où vous l'aviez laissé : un clic sur son icône de la barre des tâches et un Alt+Tab le ramènent au même endroit, au lieu de le faire sauter près du curseur. Le raccourci d'ouverture (Alt+Espace), lui, continue de l'afficher près de votre sélection. Le retour au français fonctionne enfin après un passage à l'anglais — certains libellés restaient anglais définitivement. Dans l'éditeur de capture, la punaise n'est plus tranchée, le format d'export s'affiche en entier (« JPEG » ne tenait pas) et le premier bouton ne mord plus sur le coin arrondi.\n"
+}
