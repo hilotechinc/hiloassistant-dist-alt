@@ -1,9 +1,9 @@
 {
-  "version": "0.5.4",
-  "build": 202609100322,
-  "url": "https://github.com/hilotechinc/hiloassistant-dist-alt/releases/download/v0.5.4/HiloAssistant-0.5.4-installer.zip",
-  "sha256": "c2f10ae9ba80e37bfc9adbc8aa03165b330012e089ffe55f6075fadd04d6390b",
-  "size": 4780069,
-  "notes": "Nouveautés de cette version :\n• « Transformer un texte » : raccourci global ⌃⌥T et véritable fenêtre indépendante.\n• La page de correction s'ouvre désormais toujours en popup autonome, jamais derrière l'overlay.\n• Capture de région : l'écran est figé pendant la sélection, les menus déroulants ouverts sont enfin capturables.\n• IA : l'aperçu n'affiche plus de réponse tronquée.\n\nIMPORTANT : après cette mise à jour, macOS considère HiloAssistant comme une nouvelle application (certificat de signature différent). Réautorisez-la dans Réglages Système → Confidentialité et sécurité → Accessibilité, puis Surveillance de la saisie. Sans cela, le raccourci global et la capture d'écran ne fonctionneront pas.",
+  "version": "1.0.1021",
+  "build": 202609281548,
+  "url": "https://github.com/hilotechinc/hiloassistant-dist-alt/releases/download/v1.0.1021/HiloAssistant-1.0.1021-installer.zip",
+  "sha256": "08d256642c217ac479c06c00378312628eeeb6aad41e3d68d60773ee023cfcc5",
+  "size": 5035569,
+  "notes": "Passage à la nouvelle distribution — Local Assistant 1.0.1021.\n\nFR — Cette mise à jour fait passer l'application sur la distribution HiloIntelligence (AI Center). Après l'installation, connecte-toi avec ton compte HiloIntelligence (Plan 3) : les mises à jour suivantes arriveront ensuite automatiquement. Tes autorisations macOS et tes données locales (mémoire, coffre, presse-papiers) sont conservées.\n\nEN — This update moves the app to the HiloIntelligence (AI Center) distribution. After installing, sign in with your HiloIntelligence (Plan 3) account: later updates will then arrive automatically. Your macOS permissions and local data (memory, vault, clipboard) are kept.",
   "minimumOS": "14.0"
 }
